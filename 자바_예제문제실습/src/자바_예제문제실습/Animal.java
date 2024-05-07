@@ -41,7 +41,6 @@ public class Animal {
 	}
 	//필수생성자
 	public Animal(String 동물이름, int 나이) {
-		super();
 		this.동물이름 = 동물이름;
 		this.나이 = 나이;
 	}
